@@ -10,11 +10,11 @@ Listen to YouTube videos, without the distracting visuals.
 
 ## Chrome Extension
 
-Install the [Chrome extension](https://chrome.google.com/webstore/detail/zen-youtube-audio-player/jlkomkpeedajclllhhfkloddbihmcjlm) ([source code](https://github.com/zen-audio-player/extension-chrome)) so you can add `&zen` or `/zen` to the end of any YouTube URL to redirect this app!
+Install the [Chrome extension](https://chrome.google.com/webstore/detail/zen-youtube-audio-player/jlkomkpeedajclllhhfkloddbihmcjlm) ([source code](https://github.com/zen-audio-player/extension-chrome)) so you can add `&zen` or `/zen` to the end of any YouTube URL to redirect this app.
 
 ## Bookmark
 
-Create a bookmark with `javascript: (function () { window.location.href = 'https://zenplayer.audio/?v=' + location.href; }());` as an URL to quickly redirect your YouTube video to this app!
+Create a bookmark with `javascript: (function () { window.location.href = 'https://zenplayer.audio/?v=' + location.href; }());` as an URL to quickly redirect your YouTube video to this app.
 
 ### How to create a custom bookmark in Chrome:  
 1. Click on a star at the right side of the omnibox (you can also press Ctrl+D (CMD+D on Mac) or choose "Bookmark this page..." from the menu).  
